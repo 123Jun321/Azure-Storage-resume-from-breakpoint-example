@@ -18,3 +18,4 @@ D:\MyDevelopemtSpace\C#\AzureStorageUploadBigFileExample\storage-blobs-dotnet-qu
 D:\MyDevelopemtSpace\C#\AzureStorageUploadBigFileExample\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\AzureStorageUploadBigFileExample.AssemblyInfo.cs
 D:\MyDevelopemtSpace\C#\AzureStorageUploadBigFileExample\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\AzureStorageUploadBigFileExample.dll
 D:\MyDevelopemtSpace\C#\AzureStorageUploadBigFileExample\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\AzureStorageUploadBigFileExample.pdb
+D:\MyDevelopemtSpace\C#\AzureStorageUploadBigFileExample\storage-blobs-dotnet-quickstart\obj\Debug\netcoreapp2.0\AzureStorageUploadBigFileExample.csprojAssemblyReference.cache

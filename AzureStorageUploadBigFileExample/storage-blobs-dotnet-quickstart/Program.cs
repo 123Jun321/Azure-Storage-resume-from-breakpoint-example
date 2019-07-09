@@ -19,7 +19,7 @@
 			//uploadBigFile().GetAwaiter().GetResult();
 			string uri = string.Concat("https://", AzureConstants.Account, ".blob.core.chinacloudapi.cn/");//注意正确修改指向中国版Azure的终结点
 																										   //文件路径
-			string sourcePath = @"C:\Users\guan.jun\Desktop\6.mkv";
+			string sourcePath = @"文件路径";
 			//上传块大小
 			int bufferSize = 1024 * 1024 * 2;
 			//断点上传记录文件
